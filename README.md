@@ -8,16 +8,3 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-- 💬 Ask me about **Anything**
-
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hidessh99&show_icons=true&locale=en&layout=compact" alt="hidessh99" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hidessh99&show_icons=true&locale=en" alt="hidessh99" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hidessh99&" alt="hidessh99" /></p>
